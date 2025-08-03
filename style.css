@@ -6,7 +6,7 @@
 }
 
 body {
-  background: linear-gradient(to right, #74ebd5, #9face6);
+  background: linear-gradient(to left, #5D1049, #f9e4d4);
   font-family: 'Poppins', sans-serif;
   min-height: 100vh;
   display: flex;
@@ -35,7 +35,7 @@ body {
   position: absolute;
   top: 1rem;
   right: 1rem;
-  background: gold;
+  background: rgb(255, 231, 96);
   color: black;
   padding: 0.3rem 0.7rem;
   font-size: 0.75rem;
